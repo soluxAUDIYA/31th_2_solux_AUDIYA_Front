@@ -1,0 +1,14 @@
+*, *::before, *::after { box-sizing: border-box; }
+html, body, #root { height: 100%; margin: 0; }
+body {
+  background: #000;
+  color: var(--color-text);
+  font-family: var(--font-family);
+}
+.mobile-frame {
+  max-width: var(--frame-width);
+  min-height: 100%;
+  margin: 0 auto;
+  background: var(--color-bg);
+}
+.page { padding: var(--space-4); }

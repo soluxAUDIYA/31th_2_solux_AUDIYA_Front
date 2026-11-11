@@ -1,0 +1,21 @@
+/* 담당: A — 디자인 토큰. 피그마 디자인 페이지 기준으로 채워주세요. */
+:root {
+  --color-bg: #0f1218;
+  --color-surface: #1a1f29;
+  --color-primary: #ffc22e;
+  --color-danger: #ff3b5c;
+  --color-text: #ffffff;
+  --color-text-sub: #9aa3b2;
+
+  --radius-sm: 6px;
+  --radius-md: 12px;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+
+  --font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
+  --frame-width: 402px;
+}
