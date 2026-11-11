@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 어디야 프론트엔드
 
 React + TypeScript + Vite. 1/3까지 목업 데이터(MSW)로 전 화면을 만들고, 1/4부터 백엔드와 연동합니다.
@@ -71,3 +72,19 @@ src/
 - `main`: 항상 실행되는 상태 유지, 직접 push 금지
 - `feat/<담당>-<화면번호>-<내용>` 예: `feat/A-03-identity-verify`, `feat/B-09-route-select`
 - PR 올리기 전 `npm run typecheck` 통과 확인
+=======
+# AUDIYA Backend
+
+AI 기반 안심귀가 서비스 '어디야'의 프론트 레포지토리입니다.
+
+## 주요 기능
+- 회원가입 및 로그인
+- 사용자 및 비상연락처 관리
+- 안심귀가 기록 및 위치 데이터 관리
+- AI 오디오 메이트 연동
+- 위험 감지 및 SOS 처리
+- 보호자 SMS 알림
+
+## Project
+SOLUX 31기 2학기 프로젝트
+>>>>>>> 6b45a58e98de5cd9f9c39a14a62fe5e15fa78fb3
