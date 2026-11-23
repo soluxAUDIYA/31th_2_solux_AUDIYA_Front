@@ -1,5 +1,5 @@
-// 담당: C | 피그마: 07·17
-// TODO: 구현
+// �떞�떦: C | �뵾洹몃쭏: 07쨌17
+// TODO: 援ы쁽
 
 export interface SpeechBubbleProps {}
 
